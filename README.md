@@ -1,4 +1,4 @@
-### 👩‍💻 Oi, tudo bem, sou Jaqueline Lessa, Desenvolvedora Júnior.
+### 👩‍💻 Jaqueline Lessa
 <div align="center">
   <a href="https://github.com/Jaqueline-17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaqueline-17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
